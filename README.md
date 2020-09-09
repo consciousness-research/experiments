@@ -1,10 +1,3 @@
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 ## About CORE
 
 The Consciousness Origination Research Endeavour [CORE] is a non-profit research group that is trying to understand consciousness by doing small machine learning experiments. We build on the latest research insights in neuroscience, psychology and computer science. The aim of this project is to shed light on the parts related to human consciousness and thereby learn how it is working. We believe the only way to unravel the mysteries of human consciousness is to use machine learning asa kind of Lego blocks to solve this puzzle one step at the time. All code is open and free to use for everyone. 
